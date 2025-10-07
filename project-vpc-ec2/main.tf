@@ -71,7 +71,7 @@ resource "aws_security_group" "webSg" {
 }
 
 resource "aws_s3_bucket" "example" {
-  bucket = "terraform-s3-test-reya-project"
+  bucket = "terraform-s3-test-rishu-project"
 }
 
 
